@@ -13,7 +13,7 @@ tags:
   - Finanças
   - CAPM
 image:
-  filename: featured.png
+  filename: ""
   focal_point: center
   preview_only: false
 ---

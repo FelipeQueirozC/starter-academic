@@ -27,7 +27,7 @@ feature:
 - description: 
   icon: file-excel
   icon_pack: far
-  name: Photography
+  name: MS Office
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

@@ -25,7 +25,7 @@ experience:
   - title: Trainee
     company: Liga de Mercado Financeiro PUC-Rio
     company_url: 'https://www.lmfpucrio.com/'
-    company_logo: org-gc
+    company_logo: lmf
     location: PUC-Rio
     date_start: '2021-04-01'
     date_end: ''
@@ -39,16 +39,16 @@ experience:
   - title: Subsecretário Acadêmico
     company: Modelo Diplomático Agostiniano
     company_url: 'https://www.modeloagostiniano.com/'
-    company_logo: org-x
+    company_logo: mda
     location: CSA-Leblon
     date_start: '2020-03-01'
     date_end: ''
     description: |2-
         Responsabilidades:
         
-        * Pesquisa
-        * Supervisão de 100 participantes
-        * Gerenciamento de equipes
+        * Pesquisa acadêmica
+        * Supervisão de mais de 45 participantes
+        * Gerenciamento de equipes e projetos
 
 design:
   columns: '2'

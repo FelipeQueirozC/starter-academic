@@ -10,8 +10,8 @@ main:
   - name: Posts
     url: '#posts'
     weight: 20
-  - name: Publicações
-    url: '#featured'
+  - name: Blog
+    url: https://fqueiroz.blogspot.com/
     weight: 50
   - name: Contato
     url: '#contact'

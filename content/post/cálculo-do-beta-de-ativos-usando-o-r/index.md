@@ -1,7 +1,7 @@
 ---
 title: Cálculo do Beta de ativos usando o R
 subtitle: (Post publicado originalmente no Open Code Community)
-date: 2021-05-13T17:25:12.152Z
+date: 2021-05-13T20:00:00.000Z
 draft: false
 featured: false
 authors:

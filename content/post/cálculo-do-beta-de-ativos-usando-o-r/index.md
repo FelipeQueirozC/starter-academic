@@ -170,7 +170,7 @@ ggplot(data = port, aes(x=Rb, y=Ra)) +
 
 <div align="center">
 
-{{< figure src="featured.jpg" caption="Output do código acima" >}}
+{{< figure src="featured.png" caption="Output do código acima" >}}
 
 </div>
 

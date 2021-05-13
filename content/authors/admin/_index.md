@@ -41,5 +41,4 @@ email: felipequeirozcarvalho@gmail.com
 superuser: true
 highlight_name: false
 ---
-Estou no terceiro período de Economia na PUC-Rio e sou trainee na Liga de Mercado Financeiro PUC-Rio. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.blogspot.com/).
-
+Estou no terceiro período de Economia na PUC-Rio e sou trainee na Liga de Mercado Financeiro PUC-Rio. Também sou colaborador no projeto Open Code Community. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.blogspot.com/). 

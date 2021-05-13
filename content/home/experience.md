@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
+title: Experiência Profissional
 subtitle:
 
 # Date format for experience
@@ -22,28 +22,33 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
+  - title: Trainee
+    company: Liga de Mercado Financeiro PUC-Rio
+    company_url: 'https://www.lmfpucrio.com/'
     company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: PUC-Rio
+    date_start: '2021-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Responsabilidades:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Pesquisa
+        * Cooperação
+        * Programação
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
+  - title: Subsecretário Acadêmico
+    company: Modelo Diplomático Agostiniano
+    company_url: 'https://www.modeloagostiniano.com/'
     company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: CSA-Leblon
+    date_start: '2020-03-01'
+    date_end: ''
+    description: |2-
+        Responsabilidades:
+        
+        * Pesquisa
+        * Supervisão de 100 participantes
+        * Gerenciamento de equipes
 
 design:
   columns: '2'

@@ -11,7 +11,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: blog
+  - icon: blogger
     icon_pack: fab
     link: https://fqueiroz.blogspot.com/
     display:
@@ -28,16 +28,18 @@ education:
   courses:
     - course: Bacharelado em Ciências Econômicas - CR 9.5
       institution: Pontifícia Universidade Católica do Rio de Janeiro
-      year: ""
+      description: CR 9.5; Bolsa Integral por Desempenho Acadêmico
+      year: "2023"
     - course: Ensino Fundamental e Médio
       institution: Colégio Santo Agostinho - Leblon
-      year: ""
+      description: Bolsa por Desempenho Acadêmico
+      year: "2019"
     - course: Grupo de Estudos em Macroeconomia
       institution: IEPE/Casa das Garças
-      year: ""
+      year: "2021"
 email: felipequeirozcarvalho@gmail.com
 superuser: true
 highlight_name: false
 ---
-Estou no terceiro período de Economia na PUC-Rio e sou trainee na Liga de Mercado Financeiro PUC-Rio. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu blog.
+Estou no terceiro período de Economia na PUC-Rio e sou trainee na Liga de Mercado Financeiro PUC-Rio. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.blogspot.com/).
 

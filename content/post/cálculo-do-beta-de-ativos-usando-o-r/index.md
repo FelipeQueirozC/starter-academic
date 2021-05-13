@@ -170,7 +170,8 @@ ggplot(data = port, aes(x=Rb, y=Ra)) +
 
 <div align="center">
 
-{{< figure src="features.jpg" caption="Output do código acima" >}}
+{{< figure src="featured.jpg" caption="Output do código acima" >}}
+
 </div>
 
 A partir dos resultados obtidos na análise, podemos observar que a PETR4 é mais volátil que o mercado em geral ($\beta > 1$), já que seu beta é de 1.54. Vemos também que o seu $R^2$ é 0.61, ou seja, em média, 61% da variação dos retornos diários de PETR4 podem ser explicadas pela variação nos retornos diários do BOVA11.

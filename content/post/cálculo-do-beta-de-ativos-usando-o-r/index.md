@@ -1,6 +1,6 @@
 ---
 title: Cálculo do Beta de ativos usando o R
-subtitle: "Autores: Felipe Queiroz e David Medeiros"
+subtitle: ""
 date: 2021-05-13T17:25:12.152Z
 draft: false
 featured: false

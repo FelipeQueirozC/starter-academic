@@ -1,6 +1,6 @@
 ---
 title: Assaí Atacadista (ASAI3) - Valuation por DCF
-date: 2021-03-25T22:00:00.000Z
+date: 2021-05-16T23:21:24.646Z
 draft: false
 featured: false
 authors:

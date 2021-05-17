@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:felipequeirozcarvalho@gmail.com
   - icon: blogger
     icon_pack: fab
     link: https://fqueiroz.blogspot.com/
@@ -30,13 +30,13 @@ education:
       institution: Pontifícia Universidade Católica do Rio de Janeiro
       description: CR 9.5; Bolsa Integral por Desempenho Acadêmico
       year: "2023"
+    - course: Grupo de Estudos em Macroeconomia
+      institution: IEPE/Casa das Garças
+      year: "2021"
     - course: Ensino Fundamental e Médio
       institution: Colégio Santo Agostinho - Leblon
       description: Bolsa por Desempenho Acadêmico
       year: "2019"
-    - course: Grupo de Estudos em Macroeconomia
-      institution: IEPE/Casa das Garças
-      year: "2021"
 email: felipequeirozcarvalho@gmail.com
 superuser: true
 highlight_name: false

@@ -5,7 +5,7 @@
 
 title: Felipe Queiroz # Website name
 baseurl: 'https://fqueiroz.netlify.app/' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: © 2021, Felipe Queiroz # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

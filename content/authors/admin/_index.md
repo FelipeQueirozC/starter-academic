@@ -2,7 +2,8 @@
 title: Felipe Queiroz
 role: Trainee na Liga de Mercado Financeiro PUC-Rio
 avatar_filename: avatar.jpg
-bio: ""
+bio: Estudo Economia na PUC-Rio e sou Trainee na Liga de Mercado de Financeiro
+  da PUC-Rio. Gosto muito de programação, economia e finanças.
 interests:
   - Finanças
   - Macroeconomia

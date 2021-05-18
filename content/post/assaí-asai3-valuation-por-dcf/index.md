@@ -36,19 +36,19 @@ Contudo, esse crescimento fatalmente virá acompanhado de uma redução da marge
 Um ponto positivo é que a empresa não sofre por grandes necessidades de reinvestimento, tendo um giro de ativos alto, ligeiramente maior que a média do setor para mercados emergentes. Além disso, a empresa possui um retorno sobre o capital alto, que convergirá para a média setorial (10%) até a fase de crescimento estável.
 
 Tudo isso me leva a crer que a empresa crescerá 20% em 2021 (com a abertura planejada de lojas pela empresa e menos crescimento nas lojas existentes) e terá um CAGR de 15% entre 2022 e 2025. Após isso ela deve convergir para a taxa de crescimento da economia no longo prazo de 5%. Isso a deixa com um Market Share de 50% e de 20%, para os setores de atacarejo e supermercados em geral, respectivamente.
-
+</div>
 <div align="center">{{< figure src="1.png" caption="Market Share atual e projetado" >}}</div>
-
+<div align="justify">
 Resumindo, as perspectivas elaboradas para a empresa estão representadas no quadro abaixo:
-
+</div>
 <div align="center">{{< figure src="2..png" caption="Perspectivas da empresa" >}}</div>
 
 ### A valuation
-
+<div align="justify">
 Com base nesses parâmetros, chega-se a um valor para a ação de R$ 97,87. Um *upside* potencial de 27% em relação aos preços do dia 25/03/21. 
 
 Tendo elaborado a história para a empresa, segue, agora, o modelo completo de valuation. Se quiser mudar algum parâmetro, ou refazer a valuation do seu próprio jeito, é só clicar [nesse link](https://docs.google.com/spreadsheets/d/16f4XgydPM4SvpAGBZYGaxpmQXiLPDWGtS8wNZbRg6Ns/edit?usp=sharing), que abrirá uma planilha no Google Sheets. Caso prefira, a planilha que eu usei também está disponível no site do [Aswath Damodaran](http://pages.stern.nyu.edu/~adamodar/).
-
+</div>
 <div align="center">{{< figure src="3..png" caption="Output completo do modelo" >}
 
-Obrigado pela atenção! </div></div>
+Obrigado pela atenção! </div>

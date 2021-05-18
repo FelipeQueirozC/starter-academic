@@ -1,7 +1,7 @@
 ---
 title: Assaí (ASAI3) - Valuation por DCF
 subtitle: ""
-date: 2021-05-18T01:22:24.960Z
+date: 2021-03-08T01:22:24.960Z
 draft: false
 featured: false
 image:

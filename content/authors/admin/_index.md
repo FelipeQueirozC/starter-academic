@@ -12,11 +12,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:felipequeirozcarvalho@gmail.com
-  - icon: blogger
-    icon_pack: fab
-    link: https://fqueiroz.blogspot.com/
-    display:
-      header: true
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/felipequeirozc/
@@ -42,4 +37,4 @@ email: felipequeirozcarvalho@gmail.com
 superuser: true
 highlight_name: false
 ---
-Estou no terceiro período de Economia na PUC-Rio e sou trainee na Liga de Mercado Financeiro PUC-Rio. Também sou colaborador no projeto Open Code Community. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.blogspot.com/). 
+Estou no terceiro período de Economia na PUC-Rio e sou trainee na Liga de Mercado Financeiro PUC-Rio. Também sou colaborador no projeto Open Code Community. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.netlify.app/tag/valuation/). 

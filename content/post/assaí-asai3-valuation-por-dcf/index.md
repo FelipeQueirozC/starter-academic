@@ -4,6 +4,9 @@ subtitle: ""
 date: 2021-03-08T01:22:24.960Z
 draft: false
 featured: false
+tags:
+  - Valuation
+  - DCF
 image:
   filename: featured
   focal_point: Smart

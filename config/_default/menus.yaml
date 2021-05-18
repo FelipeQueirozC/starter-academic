@@ -13,9 +13,9 @@ main:
  # - name: Blog
  #   url: https://fqueiroz.blogspot.com/
  #   weight: 50
-  - name: Contato
-    url: 'mailto:felipequeirozcarvalho@gmail.com'
-    weight: 60
+ # - name: Contato
+ #   url: 'mailto:felipequeirozcarvalho@gmail.com'
+ #   weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.

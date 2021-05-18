@@ -7,12 +7,12 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Posts
-    url: 'https://fqueiroz.netlify.app/post/'
+  - name: Valuation
+    url: 'https://fqueiroz.netlify.app/tag/valuation/'
     weight: 20
- # - name: Blog
- #   url: https://fqueiroz.blogspot.com/
- #   weight: 50
+  - name: Programação
+    url: 'https://fqueiroz.netlify.app/tag/programacao/'
+    weight: 50
  # - name: Contato
  #   url: 'mailto:felipequeirozcarvalho@gmail.com'
  #   weight: 60

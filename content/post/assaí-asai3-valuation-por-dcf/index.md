@@ -49,6 +49,6 @@ Com base nesses parâmetros, chega-se a um valor para a ação de R$ 97,87. Um 
 
 Tendo elaborado a história para a empresa, segue, agora, o modelo completo de valuation. Se quiser mudar algum parâmetro, ou refazer a valuation do seu próprio jeito, é só clicar [nesse link](https://docs.google.com/spreadsheets/d/16f4XgydPM4SvpAGBZYGaxpmQXiLPDWGtS8wNZbRg6Ns/edit?usp=sharing), que abrirá uma planilha no Google Sheets. Caso prefira, a planilha que eu usei também está disponível no site do [Aswath Damodaran](http://pages.stern.nyu.edu/~adamodar/).
 </div>
-<div align="center">{{< figure src="3..png" caption="Output completo do modelo" >}
+<div align="center">{{< figure src="3..png" caption="Output completo do modelo" >}}
 
 Obrigado pela atenção! </div>

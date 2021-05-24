@@ -30,11 +30,10 @@ experience:
     date_start: '2021-04-01'
     date_end: ''
     description: |2-
-        Responsabilidades:
+        Destaques:
         
-        * Pesquisa
-        * Cooperação
-        * Programação
+        * Melhor relatório de Research de ETF
+        * Represento a Liga no projeto Open Code Community
         
   - title: Subsecretário Acadêmico
     company: Modelo Diplomático Agostiniano

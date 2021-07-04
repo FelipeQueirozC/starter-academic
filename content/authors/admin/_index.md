@@ -1,8 +1,8 @@
 ---
 title: Felipe Queiroz
-role: Trainee na Liga de Mercado Financeiro PUC-Rio
+role: Associado na Liga de Mercado Financeiro PUC-Rio
 avatar_filename: avatar.jpg
-bio: Estudo Economia na PUC-Rio e sou Trainee na Liga de Mercado de Financeiro
+bio: Estudo Economia na PUC-Rio e sou Associado na Liga de Mercado de Financeiro
   da PUC-Rio. Gosto muito de programação, economia e finanças.
 interests:
   - Finanças
@@ -37,4 +37,4 @@ email: felipequeirozcarvalho@gmail.com
 superuser: true
 highlight_name: false
 ---
-Estou no terceiro período de Economia na PUC-Rio e sou trainee na Liga de Mercado Financeiro PUC-Rio. Também sou colaborador no projeto Open Code Community. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.netlify.app/tag/valuation/). 
+Estou no terceiro período de Economia na PUC-Rio e sou Associado Júnior na Liga de Mercado Financeiro PUC-Rio. Também sou colaborador no projeto Open Code Community e Secretário Acadêmico no Modelo Diplomático Agostiniano. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.netlify.app/tag/valuation/).

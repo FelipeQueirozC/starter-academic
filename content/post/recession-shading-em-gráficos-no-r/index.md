@@ -11,7 +11,7 @@ tags:
   - R
   - Programação
 image:
-  filename: featured
+  filename: 2.png
   focal_point: Smart
   preview_only: false
 ---

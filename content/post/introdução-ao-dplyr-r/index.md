@@ -5,7 +5,8 @@ date: 2021-07-28T21:27:40.152Z
 draft: false
 featured: false
 authors:
-  - Felipe Queiroz;David Medeiros
+  - Felipe Queiroz
+  - David Medeiros
 tags:
   - R;Programação;dplyr
 image:

@@ -8,7 +8,9 @@ authors:
   - Felipe Queiroz
   - David Medeiros
 tags:
-  - R;Programação;dplyr
+  - R
+  - Programação
+  - dplyr
 image:
   filename: featured
   focal_point: Smart
@@ -16,7 +18,7 @@ image:
 ---
 <div align="justify">
 
-Nesse post iremos ensinar algumas funções do pacote dplyr e ggplot2, respectivamente usados para manipulação de dados e elaboração de gráficos.
+Nesse post iremos ensinar algumas funções do pacote dplyr usado para manipulação de dados.
 
 O objetivo é que esse post sirva como introdução e material de consulta para os iniciantes em R. 
 
@@ -182,5 +184,5 @@ Ao executarmos o código acima, vemos que a Oceania possuio o mais alto valor me
 </div>
 
 <div align="justify">
-Esperamos que vocês tenham aproveitado essa breve introdução ao **dplyr**. Há muito mais informações amplamente disponiveis na Internet para que você aprofunde seus conhecimentos. Contudo, caso queira saber mais de algum tópico específico, mande um e-mail para algum dos autores para que possamos fazer um novo post abordando melhor esse assunto!
+Esperamos que vocês tenham aproveitado essa breve introdução ao \*\*dplyr\*\*. Há muito mais informações amplamente disponiveis na Internet para que você aprofunde seus conhecimentos. Contudo, caso queira saber mais de algum tópico específico, mande um e-mail para algum dos autores para que possamos fazer um novo post abordando melhor esse assunto!
 </div>

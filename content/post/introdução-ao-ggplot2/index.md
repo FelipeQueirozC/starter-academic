@@ -12,7 +12,7 @@ tags:
   - Programação
   - ggplot2
 image:
-  filename: 8.png
+  filename: featured.png
   focal_point: Smart
   preview_only: true
 ---

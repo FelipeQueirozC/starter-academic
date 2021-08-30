@@ -21,7 +21,7 @@ Utilizei uma taxa livre de risco de 5,43% a.a., obtida a partir da soma da expec
 
 Para o Prêmio de Risco para Equities (Equity Risk Premium - ERP) utilizei o valor de 7,67%, calculado com base no ERP implícito de um mercado maduro (nesse caso, os EUA) de [4,71%](http://pages.stern.nyu.edu/~adamodar/) somado ao Prêmio de Risco do País (Country Risk Premium - CRP) de 2,91%, obtido a partir da multiplicação do prêmio de risco para os títulos do governo (Ba2/BB) pela volatilidade relativa do Ibovespa em relação à volatilidade dos títulos públicos.
 
-Além disso, utilizei como dividendo base o valor de R$ 1,48 por ação ON (BBAS3) em 2020 e o LPA (EPS) de R$ 4,37 em 2020.
+Além disso, utilizei como dividendo base o valor de 1,48 por ação ON (BBAS3) em 2020 e o LPA (EPS) de 4,37 em 2020.
 
 O beta utilizado foi de 1,1, mais arriscado do que a média setorial dos mercados emergentes para o setor bancário, refletindo os riscos da interferência pública no management do BB. Contudo, há de se considerar o cenário de privatização, em que o beta cairia para 0,95, em linha com a média setorial.
 
@@ -31,7 +31,7 @@ Para o ROE (Retorno sobre o patrimônio líquido) na fase de crescimento foi usa
 
 O crescimento estável do Lucro Líquido é de 5,20% (um pouco menor que a taxa de crescimento da economia, refletindo um aumento da competição no setor bancário). Já o ROE no crescimento estável é de 14% (ligeiramente menor que a média histórica, fundamentado por aumentos no MP da taxa SELIC, mas não a níveis como os de 2015-16). Com esses dados, calcula-se o payout de 62,86% na perpetuidade.
 
-O Resultado da valuation nos dá um valor por ação de R$ 32,79 para o caso sem privatização e R$ 37,26 com privatização em 2021/22, após o período de crescimento acelerado. Assumindo a probabilidade da privatização ocorrer for de 20%, temos um valor por ação de R$ 33,68, ou seja, um upside potencial de 10,9%, aproximadamente, em relação ao preço atual. 
+O Resultado da valuation nos dá um valor por ação de 32,79 para o caso sem privatização e 37,26 com privatização em 2021/22, após o período de crescimento acelerado. Assumindo a probabilidade da privatização ocorrer for de 20%, temos um valor por ação de 33,68, ou seja, um upside potencial de 10,9%, aproximadamente, em relação ao preço atual. 
 
 </div>
 

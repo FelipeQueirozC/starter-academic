@@ -37,4 +37,4 @@ email: felipequeirozcarvalho@gmail.com
 superuser: true
 highlight_name: false
 ---
-Estou no quarto período de Economia na PUC-Rio e sou Associado Júnior na Liga de Mercado Financeiro PUC-Rio. Também sou colaborador no projeto Open Code Community e Secretário Acadêmico no Modelo Diplomático Agostiniano. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.netlify.app/tag/valuation/).
+Estou no quarto período de Economia na PUC-Rio, onde estudo com Bolsa Integral por Desempenho Acadêmico, e sou Associado Júnior na Liga de Mercado Financeiro PUC-Rio. Também sou colaborador no projeto Open Code Community e Secretário Acadêmico no Modelo Diplomático Agostiniano. Tenho muito interesse nas áreas de finanças e macroeconomia. Ocasionalmente realizo valuations no meu [blog](https://fqueiroz.netlify.app/tag/valuation/).

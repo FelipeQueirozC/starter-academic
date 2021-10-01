@@ -34,6 +34,8 @@ experience:
         Destaques:
         
         * Participação no Hackathon Bloomberg
+        * Participação no CFA Institute Research Challenge
+        * Represento a Liga no projeto Open Code Community
 
   - title: Trainee
     company: Liga de Mercado Financeiro PUC-Rio
@@ -46,7 +48,6 @@ experience:
         Destaques:
         
         * Melhor relatório de Research de ETF
-        * Represento a Liga no projeto Open Code Community
 
   - title: Secretário Acadêmico
     company: Modelo Diplomático Agostiniano
@@ -61,14 +62,6 @@ experience:
         * Pesquisa acadêmica
         * Supervisão de mais de 100 participantes
         * Gerenciamento de equipes e projetos
-        
-  - title: SubSecretário Acadêmico
-    company: Modelo Diplomático Agostiniano
-    company_url: 'https://www.modeloagostiniano.com/'
-    company_logo: mda
-    location: CSA-Leblon
-    date_start: '2020-03-01'
-    date_end: '2021-05-01'
 
 design:
   columns: '2'
